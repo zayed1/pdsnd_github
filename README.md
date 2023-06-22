@@ -19,7 +19,7 @@ For the presentation component, the student had to create four slides, and each 
 * A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
 * A small summary on each slide.
 
-## Project 2 : Project 2 : Explore US Bikeshare Data
+## Project 2 : Explore US Bikeshare Data
 [Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/master/project%202)
 
 ### Overview:
