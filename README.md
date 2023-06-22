@@ -8,7 +8,7 @@ This repository contains projects did for Udacity Programming For Data Science U
 
 
 ### Project 1
-[Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/master/project%201)]
+[Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/master/project%201)
 
 ### Description
 This project involved exploring a provided database of movie rentals. The student had to run SQL queries and create visualizations to showcase the results of their queries.
