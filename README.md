@@ -7,7 +7,7 @@ This created in 22-6-2023
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
 
-### Project 1
+### Project 1 : Investigate a Relational Database
 [Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/master/project%201)
 
 ### Description
@@ -19,7 +19,7 @@ For the presentation component, the student had to create four slides, and each 
 * A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
 * A small summary on each slide.
 
-## Project 2 :
+## Project 2 : Project 2 : Explore US Bikeshare Data
 [Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/master/project%202)
 
 ### Overview:
@@ -29,7 +29,7 @@ In this project, you will make use of Python to explore data related to bike sha
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
 
-## Project 3 :
+## Project 3 : Post your Work on GitHub
 [Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/documentation/project%203%20Github)
 
 ### Overview:
