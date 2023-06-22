@@ -30,7 +30,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 ## Project 3 :
-[Check My Project Submission Through This Link]()
+[Check My Project Submission Through This Link](https://github.com/zayed1/pdsnd_github/tree/documentation/project%203%20Github)
 
 ### Overview:
 
